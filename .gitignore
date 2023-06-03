@@ -1,4 +1,5 @@
 node_modules/
+*-lock.json
 .expo/
 dist/
 npm-debug.*
